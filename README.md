@@ -13,11 +13,13 @@ Below are some screenshots of the application:
 
 
 Features
+
 Browse recipes by category
 View detailed instructions and ingredients for each recipe
 Watch cooking tutorials on YouTube directly from the app.
 
 Technologies Used
+
 React Native
 Axios for API requests
 Navigation with React Navigation
