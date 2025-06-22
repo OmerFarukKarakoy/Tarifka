@@ -51,5 +51,5 @@ Uygulama, tarif verilerini ve video linklerini dış bir **yemek tarifi API’si
 
 ## 👨‍💻 Geliştirici
 
-Bu uygulama **Ömer Faruk Karakoy** tarafından geliştirilmiştir.  
+Bu uygulama **Ömer Faruk Karaköy** tarafından geliştirilmiştir.  
 
