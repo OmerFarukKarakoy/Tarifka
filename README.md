@@ -1,9 +1,23 @@
-# RecipeApp
-Introduction
-RecipeApp is a mobile application that allows users to browse various meal categories, view recipes, and watch video tutorials on how to prepare their favorite dishes. The application fetches data from a public API, making it easy for users to explore new recipes and cuisines from different parts of the world.
+# 🍽️ RecipeApp
 
-Usage
-Below are some screenshots of the application:
+## 📱 Uygulama Tanıtımı
+
+**RecipeApp**, kullanıcıların farklı yemek kategorilerine göz atarak tarifleri inceleyebileceği ve YouTube üzerinden videolu anlatımları izleyebileceği bir mobil uygulamadır. Uygulama, halka açık bir yemek tarifleri API’sinden veri çekerek dünya mutfağından sayısız tarife erişim imkânı sunar.
+
+---
+
+## 🚀 Özellikler
+
+- 🍲 Kategori bazlı tarif arama
+- 📋 Malzemeler ve adım adım pişirme talimatlarını görüntüleme
+- ▶️ YouTube üzerinden videolu tarif izleme
+- 🌍 Farklı dünya mutfaklarını keşfetme
+
+---
+
+## 📸 Uygulama Görselleri
+
+Aşağıda uygulamanın çeşitli ekranlarına ait örnek görseller yer almaktadır:
 
 ![Ekran görüntüsü](https://github.com/user-attachments/assets/0851a34c-2e07-4aff-b4ee-df0e06365500)
 ![Ekran görüntüsü2](https://github.com/user-attachments/assets/6fd23200-5da3-4da0-8380-df24cb445e85)
@@ -12,14 +26,30 @@ Below are some screenshots of the application:
 ![Ekran görüntüsü5](https://github.com/user-attachments/assets/a33f88cd-6d14-4fdc-8cf0-bb28aad48501)
 
 
-Features
+## 🧰 Kullanılan Teknolojiler
 
-Browse recipes by category
-View detailed instructions and ingredients for each recipe
-Watch cooking tutorials on YouTube directly from the app.
+- ⚛️ **React Native** – Mobil uygulama geliştirme
+- 🌐 **Axios** – API üzerinden veri çekme
+- 🧭 **React Navigation** – Sayfalar arası geçiş yönetimi
 
-Technologies Used
+---
 
-React Native
-Axios for API requests
-Navigation with React Navigation
+## 📦 API
+
+Uygulama, tarif verilerini ve video linklerini dış bir **yemek tarifi API’si** üzerinden almaktadır. Bu sayede yeni yemekler keşfetmek ve farklı mutfak kültürlerini denemek kolaylaşır.
+
+---
+
+## 👨‍🍳 Kullanım Senaryosu
+
+1. Ana ekranda çeşitli **yemek kategorileri** listelenir.  
+2. Bir kategori seçildiğinde o kategoriye ait yemek tarifleri gösterilir.  
+3. Tarif detayında **malzeme listesi** ve **hazırlama talimatları** yer alır.  
+4. Dilerseniz, ilgili tarifin **YouTube videosuna** tek tıkla ulaşabilirsiniz.
+
+---
+
+## 👨‍💻 Geliştirici
+
+Bu uygulama **Ömer Faruk Karakoy** tarafından geliştirilmiştir.  
+
